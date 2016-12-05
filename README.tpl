@@ -1,4 +1,4 @@
-echo '# golang-glide
+echo '# golang-glide-fswatch
 ### Golang
 go env
 ```
