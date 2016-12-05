@@ -8,6 +8,12 @@ go version
 ```
 '"$GO_VERSION"'
 ```
+### glide
+glide -v
+```
+'"$GLIDE_VERSION"'
+
+```
 ### fswatch
 fswatch -v
 ```
