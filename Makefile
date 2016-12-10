@@ -1,4 +1,4 @@
-TAG := rest4hub/golang-glide-fswatch
+TAG := rest4hub/golang-glide:fswatch
 
 build:
 	docker pull golang; \
