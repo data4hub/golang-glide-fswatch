@@ -1,3 +1,5 @@
+# Deprecated(https://github.com/rest4hub/golang-glide/tree/fswatch)
+
 # golang-glide-fswatch
 [![Build Status](https://travis-ci.org/rest4hub/golang-glide-fswatch.svg?branch=master)](https://travis-ci.org/rest4hub/golang-glide-fswatch)
 ### Golang
